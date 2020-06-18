@@ -1,0 +1,18 @@
+#fundo {
+    background-color: rgb(128, 128,128);
+    color: white;
+}
+#f2 h3{
+    text-shadow: 1px 1px 4px black;
+}
+
+#table{
+    color: black;
+    background-color: rgb(200, 200, 200);
+}
+#table2{
+    color: black;
+}
+#bt1 {
+    margin-bottom: 15px;
+}

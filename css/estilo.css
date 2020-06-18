@@ -1,0 +1,29 @@
+#login {
+  background-color: rgb(88, 88, 88);
+  color: white;
+  width: 320px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 1px 1px 4px white;
+  margin-bottom: 30px;
+}
+
+#fundo {
+    background-color: rgb(38, 38, 38);
+    background-repeat: no-repeat;
+    top: 50%;
+    left: 200%;
+  }
+
+  #form h2{
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+    background-image: url("../img/corrida.jpeg");
+    background-position: center;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    
+  }

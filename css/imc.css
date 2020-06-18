@@ -1,0 +1,16 @@
+#fundo{
+    background-color: rgb(128, 128,128);
+    color: white;
+    text-shadow: 1px 1px 4px black;
+}
+
+#table {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+    text-shadow: none;
+}
+#bt{
+    margin-top: 30px;
+}
+

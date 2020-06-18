@@ -1,0 +1,8 @@
+#fundo{
+    background-color: rgb(128, 128,128);
+    color: white;
+    text-shadow: 1px 1px 3px black;
+}
+#bt1 {
+    margin-bottom: 10px;
+}

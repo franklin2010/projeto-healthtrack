@@ -1,0 +1,22 @@
+#fundo{
+    background-color: rgb(128, 128,128);
+    color: white;
+    text-shadow: 1px 1px 4px black;
+}
+
+#lista {
+    margin-top: 30px;
+}
+
+#bt1 {
+    margin-bottom: 10px;
+}
+#bt2 {
+    margin-bottom: 10px;
+}
+#bt3 {
+    margin-bottom: 10px;
+}
+#bt4 {
+    margin-bottom: 15px;
+}
